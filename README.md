@@ -30,6 +30,24 @@ To run the projects
 
 Currently, I am the sole contributor as this is a personal learning journey. 
 
+## Resources 
+
+1. Derek Johnston is an amazing youtuber and has some cool projects on verilog. https://www.youtube.com/@yelhaus/videos
+2. I will add more resources, including books as I move along this journey. 
+
+## Purpose of the project
+
+I am heavily learning verilog and I would like to move from a noob to a master in the year 2026. I plan to document my journey in this repo. 
+If everything goes as planned, I might participate in a FPGA competition. 
+
+I will start by implementing simple circuits such as adders to master the fundamentals then move to implement communication protocols such as I2C. 
+Finally the hallmark of this journey will be to implement a RISC-V CPU. 
+
+## Board 
+
+I am yet to settle on an FPGA board and I am heavily using simulations at the moment. I will decide on the best board as I progress in my journey. 
+
+
 
 ## License 
 
@@ -38,4 +56,4 @@ Project is licensed under MIT.
 Feel free to clone/fork and reuse the project as you see fit. 
 
 
-### Happy hacking!
+### Wish me luck!
