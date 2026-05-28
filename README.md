@@ -2,7 +2,7 @@
 
 
 
-# Architecture 
+## Architecture 
 
 The current projects are built on `iverilog` and `GTKWave`. 
 
@@ -31,11 +31,11 @@ To run the projects
 Currently, I am the sole contributor as this is a personal learning journey. 
 
 
-# License 
+## License 
 
 Project is licensed under MIT. 
 
 Feel free to clone/fork and reuse the project as you see fit. 
 
 
-## Happy hacking!
+### Happy hacking!
