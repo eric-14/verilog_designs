@@ -21,8 +21,9 @@ To run the projects
 5. Using vvp run the test file 
     `vvp hello_tb.vvp`
 
-6. Load the generate .vcd file in GTKWave to visualize the results 
-    example of expected hello world results: 
+6. Load the generate .vcd file in GTKWave to visualize the results. 
+
+    Example of expected hello world results: 
     ![hello world results](hello_world/startProject.png)
 
 ## Contributing.md 
