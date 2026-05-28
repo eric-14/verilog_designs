@@ -8,7 +8,7 @@ The current projects are built on `iverilog` and `GTKWave`.
 
 To run the projects
 1. Clone the repo 
-    `git clone `
+    `git clone https://github.com/eric-14/verilog_designs.git`
 
 2. install iverilog
     `sudo apt update  && sudo apt upgrade && sudo apt install iverilog`
