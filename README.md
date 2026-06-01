@@ -35,7 +35,8 @@ Currently, I am the sole contributor as this is a personal learning journey.
 1. Derek Johnston is an amazing youtuber and has some cool projects on verilog. https://www.youtube.com/@yelhaus/videos
 2. HDLBits https://hdlbits.01xz.net/wiki/Main_Page
 3. https://www.fpga4student.com/2017/08/what-is-fpga-programming.html
-4. I will add more resources, including books as I move along this journey. 
+4. System verilog for harware description by Vaibbhav Taraate 
+5. I will add more resources, including books as I move along this journey. 
 
 ## Purpose of the project
 
