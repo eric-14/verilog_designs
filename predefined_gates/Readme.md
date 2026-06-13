@@ -9,3 +9,5 @@ They include AND, OR, NOR, XNOR, XOR, NAND and NOT GATE.
 The folder contains system verilog defining the gates. The .sv file is compiled using iverilog. Testbench have been created and output can be 
 viewed using GTKWave. 
 
+# Command for Running 
+`iverilog -g2012 -o predefined_gates.vvp predefined_gates.sv`

@@ -1,0 +1,14 @@
+
+// Implementing the 7458 circuit in verilog 
+module top_module ( 
+    input p1a, p1b, p1c, p1d, p1e, p1f,
+    output p1y,
+    input p2a, p2b, p2c, p2d,
+    output p2y );
+    
+    // 7428 using continuous circuits 
+    assign p2y = (p2a & p2b) | (p2c & p2d); 
+    assign p1y = (p1c & p1b & p1a) | (p1e & p1f &p1d);
+
+
+endmodule
