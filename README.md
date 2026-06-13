@@ -40,11 +40,11 @@ Currently, I am the sole contributor as this is a personal learning journey.
 
 ## Purpose of the project
 
-I am heavily learning verilog and I would like to move from a noob to a master in the year 2026. I plan to document my journey in this repo. 
-If everything goes as planned, I might participate in a FPGA competition. 
+I am a noob in hardware desciption languages and will change that in 2026. This repo documents the journey. 
+If everything goes as planned, I will enrool in an FPGA competition. 
 
-I will start by implementing simple circuits such as adders to master the fundamentals then move to implement communication protocols such as I2C. 
-Finally the hallmark of this journey will be to implement a RISC-V CPU. 
+I will implement simple circuits such as adders to master the fundamentals then move to implement communication protocols such as I2C, UART and EtherCAT. 
+Finally the hallmark of this journey will be to implement a RISC-V CPU, a neural accelerator and an encryption circuits. 
 
 ## Board 
 
